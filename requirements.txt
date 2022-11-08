@@ -90,8 +90,7 @@ tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
 thop==0.1.1.post2209072238
 tifffile==2022.10.10
-torch==1.12.1
-torchvision==0.13.1
+
 tqdm==4.64.1
 traitlets==5.5.0
 typing_extensions==4.4.0
